@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:35:02.706864
+# -*- mode: mandoku-view -*-
 #+TITLE: 元始五老赤書玉篇真文天書經
-#+PROPERTY: DZID  DZ0022
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，1—774 三卷 洞真部本文類
+#+DATE: 2015-08-28 23:35:03
+#+PROPERTY:  LASTPB <PB KR5a0022_SJB_003-010794a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶¶¶¶¶
+
